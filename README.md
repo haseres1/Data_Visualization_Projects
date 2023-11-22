@@ -14,7 +14,7 @@ Each dashboard is a masterpiece, illustrating the skill of turning raw data into
 
 This project involves the creation of a Power BI dashboard to visualize the top streamed songs of 2023. The dashboard will encompass various elements, such as release dates, a comparative analysis of streams compared to the previous year, the danceability of songs, and the number of tracks per stream.
 
-Click Here to interact with this Dashboard
+<a href="" target="_blank">Click Here to interact with this Dashboard</a>
 
 2. **Project Management Dashboard**
 
@@ -24,11 +24,14 @@ This project involves the creation of a Power BI dashboard to enhance communicat
 
 Click Here to interact with this Dashboard
 
+<a href="" target="_blank">Click Here to interact with this Dashboard</a>
+
 3. **Web Marketing Business Dashboard**
 
 ![image](https://github.com/haseres1/Data_Visualization_Projects/assets/139165499/ce53dfff-d4e3-4755-83d6-63cec2e732b6)
 
 This project focuses on the development of a Power BI dashboard to visually represent key business performance indicators, including web sessions, web page views, and webpage load time.
 
-Click Here to interact with this Dashboard
+<a href="" target="_blank">Click Here to interact with this Dashboard</a>
+
 
