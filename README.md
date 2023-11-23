@@ -42,4 +42,14 @@ This project involves crafting a dashboard using Tableau to offer valuable insig
 
 <a href="https://public.tableau.com/views/MyAnalyticsProjects/HRAnalyticsDashboard?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank">**Click Here to interact with this Dashboard**</a>
 
+5. Sales Revenue Dashboard
+
+![image](https://github.com/haseres1/Data_Visualization_Projects/assets/139165499/8b3e0b03-3246-4a91-8125-cfd5f0d608ca)
+
+This project involves the development of a Tableau dashboard to dynamically visualize critical information, such as real-time sales revenue and quantity of sales orders, providing actionable insights into the company's sales performance and market share.
+
+<a href="https://public.tableau.com/views/SalesRevenueDashboard_17007563119740/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" target="_blank">**Click Here to interact with this Dashboard**</a>
+
+
+
 
