@@ -14,7 +14,7 @@ Each dashboard is a masterpiece, illustrating the skill of turning raw data into
 
 This project involves the creation of a Power BI dashboard to visualize the top streamed songs of 2023. The dashboard will encompass various elements, such as release dates, a comparative analysis of streams compared to the previous year, the danceability of songs, and the number of tracks per stream.
 
-<a href="" target="_blank">Click Here to interact with this Dashboard</a>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMzJjZDZjYTUtZmIxMC00ODUyLTlhYTctZjg3MjI2M2NkOTk4IiwidCI6ImJhZWZlODVlLTI4NDgtNDI0Yy04ZjI0LTc4YzhiMzA5YWVlZSIsImMiOjN9" target="_blank">Click Here to interact with this Dashboard</a>
 
 2. **Project Management Dashboard**
 
@@ -24,7 +24,7 @@ This project involves the creation of a Power BI dashboard to enhance communicat
 
 Click Here to interact with this Dashboard
 
-<a href="" target="_blank">Click Here to interact with this Dashboard</a>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZDViN2Y4ZTktYzIwYi00ZWUyLWIxM2EtZmI1OGQ3YTBlYjdhIiwidCI6ImJhZWZlODVlLTI4NDgtNDI0Yy04ZjI0LTc4YzhiMzA5YWVlZSIsImMiOjN9" target="_blank">Click Here to interact with this Dashboard</a>
 
 3. **Web Marketing Business Dashboard**
 
@@ -32,7 +32,7 @@ Click Here to interact with this Dashboard
 
 This project focuses on the development of a Power BI dashboard to visually represent key business performance indicators, including web sessions, web page views, and webpage load time.
 
-<a href="" target="_blank">Click Here to interact with this Dashboard</a>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZmRmNTI4MTktODQyMy00ZTYyLTk1ZDItZDhiNDAwYmU4OTJhIiwidCI6ImJhZWZlODVlLTI4NDgtNDI0Yy04ZjI0LTc4YzhiMzA5YWVlZSIsImMiOjN9" target="_blank">Click Here to interact with this Dashboard</a>
 
 4. Human Resource Analytics Dashboard
 
