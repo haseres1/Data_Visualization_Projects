@@ -1,4 +1,4 @@
-# Welcome to my visualization Page!
+![image](https://github.com/haseres1/Data_Visualization_Projects/assets/139165499/8c70e41d-1dcf-4852-a59e-7fa108be7de4)# Welcome to my visualization Page!
 
 I strongly believe in the transformative power of visualizing data to gain deeper insights. They say a picture is worth a thousand words, and that holds especially true for data.
 
@@ -33,5 +33,13 @@ Click Here to interact with this Dashboard
 This project focuses on the development of a Power BI dashboard to visually represent key business performance indicators, including web sessions, web page views, and webpage load time.
 
 <a href="" target="_blank">Click Here to interact with this Dashboard</a>
+
+4. Human Resource Analytics Dashboard
+
+![image](https://github.com/haseres1/Data_Visualization_Projects/assets/139165499/62d53a32-0e39-4c10-ac0a-3b44238d4bbf)
+
+This project involves crafting a dashboard using Tableau to offer valuable insights into various aspects of the company's workforce, including retention rate, employee count, job satisfaction, and more. The aim is to provide a comprehensive overview of key human resources metrics for effective analysis and decision-making.
+
+<a href="https://public.tableau.com/views/MyAnalyticsProjects/HRAnalyticsDashboard?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank">**Click Here to interact with this Dashboard**</a>
 
 
