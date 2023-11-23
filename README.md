@@ -1,4 +1,4 @@
-![image](https://github.com/haseres1/Data_Visualization_Projects/assets/139165499/8c70e41d-1dcf-4852-a59e-7fa108be7de4)# Welcome to my visualization Page!
+# Welcome to my visualization Page!
 
 I strongly believe in the transformative power of visualizing data to gain deeper insights. They say a picture is worth a thousand words, and that holds especially true for data.
 
