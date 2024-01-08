@@ -55,7 +55,7 @@ This project involves the development of a Tableau dashboard to dynamically visu
 ![image](https://github.com/haseres1/Data_Visualization_Projects/assets/139165499/34beffe0-1276-4171-bfc1-6c6fd1a05030)
 
 
-This project focuses on the development of a Power BI dashboard to visually represent key business performance indicators, time intillegence analyst, customr churn rate, and customer retention rate.
+This project focuses on the development of a Power BI dashboard to visually represent key business performance indicators, time intelligence analyst, customer churn rate, and customer retention rate.
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiYTNlZjgzMjctNTQwNC00YjA1LWFmZjgtMTZjZTBjMjBkYWIxIiwidCI6ImJhZWZlODVlLTI4NDgtNDI0Yy04ZjI0LTc4YzhiMzA5YWVlZSIsImMiOjN9" target="_blank">**Click Here to interact with this Dashboard**</a>
 
