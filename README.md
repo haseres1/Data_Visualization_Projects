@@ -50,6 +50,12 @@ This project involves the development of a Tableau dashboard to dynamically visu
 
 <a href="https://public.tableau.com/views/SalesRevenueDashboard_17007563119740/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" target="_blank">**Click Here to interact with this Dashboard**</a>
 
+6. Simulated Consulting Project - Dashboard
+
+![image](https://github.com/haseres1/Data_Visualization_Projects/assets/139165499/34beffe0-1276-4171-bfc1-6c6fd1a05030)
 
 
+This project focuses on the development of a Power BI dashboard to visually represent key business performance indicators, time intillegence analyst, customr churn rate, and customer retention rate.
+
+<a href="https://app.powerbi.com/view?r=eyJrIjoiYTNlZjgzMjctNTQwNC00YjA1LWFmZjgtMTZjZTBjMjBkYWIxIiwidCI6ImJhZWZlODVlLTI4NDgtNDI0Yy04ZjI0LTc4YzhiMzA5YWVlZSIsImMiOjN9" target="_blank">**Click Here to interact with this Dashboard**</a>
 
